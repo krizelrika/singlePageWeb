@@ -53,6 +53,14 @@ body {
   float:left;
 }
 
+.contact_name {
+  font-size: 35px;
+}
+
+.contact_name, .contact_info, .contact_email {
+  color: white;
+}
+
 /* Titles */
 
 h2 {
